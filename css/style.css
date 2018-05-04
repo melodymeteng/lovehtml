@@ -18,19 +18,25 @@ li {
 }
 .right-container {
   display: table-cell;
-  width: 60%;
+  width: 45%;
   float: none;
   padding: 0 30px 20px 0;
 }
+.mycontent{
+  display: table-cell;
+  width: 15%;
+  float: none;
+  background-color:rgba(64,70,80,1);
+}
 .left-container {
   color: white;
-  background: black;
+  background: rgb(30, 29, 29);
   display: table-cell;
   padding: 0 0 20px 30px;
   vertical-align: top;
 }
 .right-container {
-  background: white;
+  background: rgb(236, 233, 233);
   display: table-cell;
 }
 .tp-left-inner-container {
